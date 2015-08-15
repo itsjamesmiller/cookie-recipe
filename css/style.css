@@ -1,0 +1,15 @@
+/*
+- The background color for the page is #FFE
+- The color for the text reading "Nutrition Information" is #887
+- The link color is #900
+*/
+    
+body {
+    background-color: #FEE;
+}
+h2{
+    color:lightsalmon;
+}
+img{
+    border: 10px solid white;
+}
